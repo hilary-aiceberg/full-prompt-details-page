@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hilary-aiceberg/full-prompt-details-page/static/css/main.3b377eab.css",
-    "main.js": "/hilary-aiceberg/full-prompt-details-page/static/js/main.beb3cba2.js",
-    "static/js/453.57664fda.chunk.js": "/hilary-aiceberg/full-prompt-details-page/static/js/453.57664fda.chunk.js",
-    "index.html": "/hilary-aiceberg/full-prompt-details-page/index.html",
-    "main.3b377eab.css.map": "/hilary-aiceberg/full-prompt-details-page/static/css/main.3b377eab.css.map",
-    "main.beb3cba2.js.map": "/hilary-aiceberg/full-prompt-details-page/static/js/main.beb3cba2.js.map",
-    "453.57664fda.chunk.js.map": "/hilary-aiceberg/full-prompt-details-page/static/js/453.57664fda.chunk.js.map"
+    "main.css": "/full-prompt-details-page/static/css/main.3b377eab.css",
+    "main.js": "/full-prompt-details-page/static/js/main.89776aba.js",
+    "static/js/453.57664fda.chunk.js": "/full-prompt-details-page/static/js/453.57664fda.chunk.js",
+    "index.html": "/full-prompt-details-page/index.html",
+    "main.3b377eab.css.map": "/full-prompt-details-page/static/css/main.3b377eab.css.map",
+    "main.89776aba.js.map": "/full-prompt-details-page/static/js/main.89776aba.js.map",
+    "453.57664fda.chunk.js.map": "/full-prompt-details-page/static/js/453.57664fda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b377eab.css",
-    "static/js/main.beb3cba2.js"
+    "static/js/main.89776aba.js"
   ]
 }
